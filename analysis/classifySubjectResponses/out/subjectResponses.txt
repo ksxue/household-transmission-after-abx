@@ -1,0 +1,49 @@
+subject	subjectResponse
+XAA	lasting response
+XAC	control
+XAD	control
+XBA	lasting response
+XBB	control
+XCA	minimal response
+XCB	control
+XDA	lasting response
+XDB	control
+XEA	lasting response
+XEB	control
+XFA	transient response
+XFB	control
+XGA	minimal response
+XGB	control
+XGC	control
+XHA	control
+XHB	minimal response
+XHC	control
+XIA	minimal response
+XIB	control
+XIC	control
+XJA	minimal response
+XJB	control
+XKA	lasting response
+XKB	control
+XLA	minimal response
+XLB	control
+XMA	transient response
+XMB	control
+XNA	transient response
+XNB	control
+XOA	transient response
+XOB	control
+XPA	minimal response
+XPB	control
+XQA	transient response
+XQB	control
+XRA	minimal response
+XRB	control
+XSA	transient response
+XSB	control
+XTA	transient response
+XTB	control
+XUA	transient response
+XUB	control
+XVA	minimal response
+XVB	control

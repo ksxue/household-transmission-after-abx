@@ -1,0 +1,29 @@
+name: bowtie2
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - bowtie2=2.4.1
+  - ca-certificates=2020.7.22
+  - certifi=2020.6.20
+  - ld_impl_linux-64=2.33.1
+  - libedit=3.1.20191231
+  - libffi=3.3
+  - libgcc-ng=9.1.0
+  - libstdcxx-ng=9.1.0
+  - ncurses=6.2
+  - openssl=1.1.1g
+  - perl=5.26.2
+  - pip=20.2.2
+  - python=3.8.5
+  - readline=8.0
+  - setuptools=49.6.0
+  - sqlite=3.33.0
+  - tbb=2020.2
+  - tk=8.6.10
+  - wheel=0.35.1
+  - xz=5.2.5
+  - zlib=1.2.11
+prefix: /home/users/kxue/.bin/miniconda3/envs/bowtie2
+

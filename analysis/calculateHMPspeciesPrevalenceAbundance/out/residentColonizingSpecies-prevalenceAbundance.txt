@@ -1,0 +1,2873 @@
+"species_id" "prevalence" "medianAbundance" "type"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_cellulosilyticus_58046" 0.606986899563319 0.00419572015300266 "resident
+species"
+"Bacteroides_faecis_58503" 0.799126637554585 0.000318173832686385 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_fragilis_54507" 0.589519650655022 0.00375894052836999 "resident
+species"
+"Bacteroides_intestinalis_61596" 0.589519650655022 0.00101973894983285 "resident
+species"
+"Bacteroides_nordii_55557" 0.283842794759825 0.00053250754467108 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_hansenii_56031" 0.074235807860262 0.000100310663026094 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Clostridiaceae_bacterium_58376" 0.493449781659389 6.88633065511987e-05 "resident
+species"
+"Clostridiales_bacterium_55367" 0.423580786026201 4.78403866156235e-05 "resident
+species"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_bolteae_57158" 0.589519650655022 6.30353053438977e-05 "resident
+species"
+"Clostridium_clostridioforme_51842" 0.275109170305677 3.49020358943422e-05 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Eggerthella_lenta_56463" 0.676855895196507 7.9290566918072e-05 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_sulci_62452" 0.349344978165939 2.72934672997576e-05 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Holdemania_sp_59514" 0.275109170305677 8.33873252246569e-05 "resident
+species"
+"Lachnospiraceae_bacterium_51870" 0.829694323144105 0.000853951022379577 "resident
+species"
+"Lachnospiraceae_bacterium_56275" 0.0829694323144105 0.000327628464409611 "resident
+species"
+"Lachnospiraceae_bacterium_62050" 0.406113537117904 6.06840201796259e-05 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_acidifaciens_59693" 0.965065502183406 0.000990826541090102 "resident
+species"
+"Bacteroides_cellulosilyticus_58046" 0.606986899563319 0.00419572015300266 "resident
+species"
+"Bacteroides_faecis_58503" 0.799126637554585 0.000318173832686385 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_fragilis_54507" 0.589519650655022 0.00375894052836999 "resident
+species"
+"Bacteroides_intestinalis_61596" 0.589519650655022 0.00101973894983285 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "resident
+species"
+"Clostridiales_bacterium_59664" 0.353711790393013 2.97308248365635e-05 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_bolteae_57158" 0.589519650655022 6.30353053438977e-05 "resident
+species"
+"Clostridium_scindens_58238" 0.358078602620087 4.57046815141146e-05 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_siraeum_57634" 0.62882096069869 0.000527786639676326 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Holdemania_filiformis_61753" 0.720524017467249 0.000115998720376407 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_goldsteinii_56831" 0.240174672489083 0.000319930852512098 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_gnavus_57638" 0.672489082969432 0.000186618788182262 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Subdoligranulum_sp_62068" 0.96943231441048 0.000748788227715913 "resident
+species"
+"Adlercreutzia_equolifaciens_60310" 0.720524017467249 9.36684014942669e-05 "resident
+species"
+"Akkermansia_muciniphila_55290" 0.580786026200873 0.00256443948360739 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_indistinctus_62207" 0.51528384279476 0.000639467337413409 "resident
+species"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroidales_bacterium_58650" 0.602620087336245 0.00662313614425705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_cellulosilyticus_58046" 0.606986899563319 0.00419572015300266 "resident
+species"
+"Bacteroides_eggerthii_54457" 0.624454148471616 0.000418672139893537 "resident
+species"
+"Bacteroides_faecis_58503" 0.799126637554585 0.000318173832686385 "resident
+species"
+"Bacteroides_massiliensis_44749" 0.524017467248908 0.0174251349207795 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_plebeius_61623" 0.222707423580786 0.00167248223910303 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_salyersiae_54873" 0.248908296943231 5.38155864065045e-05 "resident
+species"
+"Bacteroides_stercoris_56735" 0.74235807860262 0.0243602608244641 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bifidobacterium_pseudocatenulatum_57754" 0.283842794759825 0.000196053532095405 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "resident
+species"
+"Butyricimonas_virosa_58742" 0.493449781659389 0.00155237700892901 "resident
+species"
+"Butyrivibrio_crossotus_61674" 0.0829694323144105 0.0115362964942164 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_sp_61482" 0.157205240174672 0.00132250279480392 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Coprococcus_sp_62244" 0.296943231441048 0.00173964076819342 "resident
+species"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Escherichia_coli_58110" 0.698689956331878 0.000141212890894795 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_siraeum_57634" 0.62882096069869 0.000527786639676326 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Gordonibacter_pamelaeae_62044" 0.606986899563319 5.89347404664738e-05 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_johnsonii_55217" 0.62882096069869 0.000540749868789771 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Paraprevotella_clara_33712" 0.262008733624454 0.00550548939946955 "resident
+species"
+"Paraprevotella_xylaniphila_62280" 0.205240174672489 0.00245833070961386 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Streptococcus_salivarius_58037" 0.558951965065502 3.59488849587358e-05 "resident
+species"
+"Akkermansia_muciniphila_55290" 0.580786026200873 0.00256443948360739 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_indistinctus_62207" 0.51528384279476 0.000639467337413409 "resident
+species"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Alistipes_sp_59510" 0.414847161572052 0.00201101426708226 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_cellulosilyticus_58046" 0.606986899563319 0.00419572015300266 "resident
+species"
+"Bacteroides_fragilis_54507" 0.589519650655022 0.00375894052836999 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_salyersiae_54873" 0.248908296943231 5.38155864065045e-05 "resident
+species"
+"Bacteroides_sartorii_54642" 0.956331877729258 0.00107205606794692 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bifidobacterium_pseudocatenulatum_57754" 0.283842794759825 0.000196053532095405 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Catenibacterium_mitsuokai_61547" 0.0829694323144105 0.000216726569153121 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_sp_61482" 0.157205240174672 0.00132250279480392 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Coprococcus_sp_62244" 0.296943231441048 0.00173964076819342 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Eubacterium_biforme_61684" 0.174672489082969 0.000138438167700431 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_ramulus_59802" 0.646288209606987 0.000255734989379864 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_johnsonii_55217" 0.62882096069869 0.000540749868789771 "resident
+species"
+"Paraprevotella_clara_33712" 0.262008733624454 0.00550548939946955 "resident
+species"
+"Paraprevotella_xylaniphila_62280" 0.205240174672489 0.00245833070961386 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Prevotella_copri_61740" 0.34061135371179 0.00102930406377009 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Sutterella_wadsworthensis_56828" 0.344978165938865 0.00388352387298947 "resident
+species"
+"Sutterella_wadsworthensis_62218" 0.209606986899563 0.00315120186276147 "resident
+species"
+"Adlercreutzia_equolifaciens_60310" 0.720524017467249 9.36684014942669e-05 "resident
+species"
+"Akkermansia_muciniphila_55290" 0.580786026200873 0.00256443948360739 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Alistipes_sp_59510" 0.414847161572052 0.00201101426708226 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroidales_bacterium_58650" 0.602620087336245 0.00662313614425705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_massiliensis_44749" 0.524017467248908 0.0174251349207795 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_stercoris_56735" 0.74235807860262 0.0243602608244641 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Barnesiella_intestinihominis_62208" 0.493449781659389 0.0178305409641253 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Butyricimonas_synergistica_58741" 0.0349344978165939 0.000307146601004279 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_spiroforme_61500" 0.681222707423581 0.000152687837438263 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprobacter_fastidiosus_56550" 0.248908296943231 0.00218540742561439 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Coprococcus_eutactus_61480" 0.0960698689956332 0.000269530113009563 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_ramulus_59802" 0.646288209606987 0.000255734989379864 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_siraeum_57634" 0.62882096069869 0.000527786639676326 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Oxalobacter_formigenes_61802" 0.165938864628821 0.000194495053047698 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Paraprevotella_clara_33712" 0.262008733624454 0.00550548939946955 "resident
+species"
+"Prevotella_copri_61740" 0.34061135371179 0.00102930406377009 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Streptococcus_thermophilus_54772" 0.54585152838428 7.21694422530883e-05 "resident
+species"
+"Subdoligranulum_sp_62068" 0.96943231441048 0.000748788227715913 "resident
+species"
+"Sutterella_wadsworthensis_56828" 0.344978165938865 0.00388352387298947 "resident
+species"
+"Sutterella_wadsworthensis_62218" 0.209606986899563 0.00315120186276147 "resident
+species"
+"Akkermansia_muciniphila_55290" 0.580786026200873 0.00256443948360739 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Alistipes_senegalensis_58364" 0.724890829694323 8.42311751768719e-05 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_cellulosilyticus_58046" 0.606986899563319 0.00419572015300266 "resident
+species"
+"Bacteroides_fragilis_54507" 0.589519650655022 0.00375894052836999 "resident
+species"
+"Bacteroides_intestinalis_61596" 0.589519650655022 0.00101973894983285 "resident
+species"
+"Bacteroides_nordii_55557" 0.283842794759825 0.00053250754467108 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_sartorii_54642" 0.956331877729258 0.00107205606794692 "resident
+species"
+"Bacteroides_stercoris_56735" 0.74235807860262 0.0243602608244641 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Barnesiella_intestinihominis_62208" 0.493449781659389 0.0178305409641253 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Coprococcus_eutactus_61480" 0.0960698689956332 0.000269530113009563 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_siraeum_57634" 0.62882096069869 0.000527786639676326 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Haemophilus_parainfluenzae_62356" 0.716157205240175 7.87876741887384e-05 "resident
+species"
+"Haemophilus_parainfluenzae_62468" 0.7117903930131 7.07456907347835e-05 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_goldsteinii_56831" 0.240174672489083 0.000319930852512098 "resident
+species"
+"Parabacteroides_johnsonii_55217" 0.62882096069869 0.000540749868789771 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_cellulosilyticus_58046" 0.606986899563319 0.00419572015300266 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_fragilis_56548" 0.266375545851528 3.00179153027912e-05 "resident
+species"
+"Bacteroides_intestinalis_61596" 0.589519650655022 0.00101973894983285 "resident
+species"
+"Bacteroides_massiliensis_44749" 0.524017467248908 0.0174251349207795 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "resident
+species"
+"Butyricimonas_virosa_58742" 0.493449781659389 0.00155237700892901 "resident
+species"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_leptum_61499" 0.877729257641921 0.000241476400504801 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Coprococcus_eutactus_61480" 0.0960698689956332 0.000269530113009563 "resident
+species"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Fusobacterium_gonidiaformans_57045" 0.0305676855895196 2.77009357901075e-05 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_johnsonii_55217" 0.62882096069869 0.000540749868789771 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "resident
+species"
+"Ruminococcus_callidus_61479" 0.292576419213974 0.000328510050975847 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Subdoligranulum_sp_62068" 0.96943231441048 0.000748788227715913 "resident
+species"
+"Sutterella_wadsworthensis_56828" 0.344978165938865 0.00388352387298947 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_acidifaciens_59693" 0.965065502183406 0.000990826541090102 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_cellulosilyticus_58046" 0.606986899563319 0.00419572015300266 "resident
+species"
+"Bacteroides_eggerthii_54457" 0.624454148471616 0.000418672139893537 "resident
+species"
+"Bacteroides_faecichinchillae_59709" 0.0698689956331878 0.000195893497062784 "resident
+species"
+"Bacteroides_intestinalis_61596" 0.589519650655022 0.00101973894983285 "resident
+species"
+"Bacteroides_massiliensis_44749" 0.524017467248908 0.0174251349207795 "resident
+species"
+"Bacteroides_nordii_55557" 0.283842794759825 0.00053250754467108 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_stercoris_56735" 0.74235807860262 0.0243602608244641 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bifidobacterium_catenulatum_58257" 0.22707423580786 8.86181212646871e-05 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bifidobacterium_pseudocatenulatum_57754" 0.283842794759825 0.000196053532095405 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Butyricimonas_virosa_58742" 0.493449781659389 0.00155237700892901 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_leptum_61499" 0.877729257641921 0.000241476400504801 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_sp_62244" 0.296943231441048 0.00173964076819342 "resident
+species"
+"Desulfovibrio_piger_61475" 0.0873362445414847 0.000459793102748814 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Escherichia_coli_58110" 0.698689956331878 0.000141212890894795 "resident
+species"
+"Escherichia_fergusonii_56914" 0.502183406113537 7.59599357661424e-05 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_ramulus_59802" 0.646288209606987 0.000255734989379864 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Fusobacterium_mortiferum_61584" 0.0218340611353712 8.93829077339947e-05 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Haemophilus_parainfluenzae_57123" 0.676855895196507 6.04981827767018e-05 "resident
+species"
+"Haemophilus_parainfluenzae_62356" 0.716157205240175 7.87876741887384e-05 "resident
+species"
+"Haemophilus_parainfluenzae_62468" 0.7117903930131 7.07456907347835e-05 "resident
+species"
+"Lachnospiraceae_bacterium_51870" 0.829694323144105 0.000853951022379577 "resident
+species"
+"Megamonas_hypermegale_57114" 0.0480349344978166 0.000163073018772287 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_goldsteinii_56831" 0.240174672489083 0.000319930852512098 "resident
+species"
+"Parabacteroides_johnsonii_55217" 0.62882096069869 0.000540749868789771 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Phascolarctobacterium_sp_59818" 0.0218340611353712 0.00447982869092811 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_callidus_61479" 0.292576419213974 0.000328510050975847 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Streptococcus_salivarius_58037" 0.558951965065502 3.59488849587358e-05 "resident
+species"
+"Adlercreutzia_equolifaciens_60310" 0.720524017467249 9.36684014942669e-05 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroidales_bacterium_58650" 0.602620087336245 0.00662313614425705 "resident
+species"
+"Bacteroides_eggerthii_54457" 0.624454148471616 0.000418672139893537 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_plebeius_61623" 0.222707423580786 0.00167248223910303 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_stercoris_56735" 0.74235807860262 0.0243602608244641 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Barnesiella_intestinihominis_62208" 0.493449781659389 0.0178305409641253 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "resident
+species"
+"Butyricimonas_virosa_58742" 0.493449781659389 0.00155237700892901 "resident
+species"
+"Catenibacterium_mitsuokai_61547" 0.0829694323144105 0.000216726569153121 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_bartlettii_61535" 0.406113537117904 6.72291967189376e-05 "resident
+species"
+"Clostridium_spiroforme_61500" 0.681222707423581 0.000152687837438263 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_ramulus_59802" 0.646288209606987 0.000255734989379864 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Haemophilus_parainfluenzae_57123" 0.676855895196507 6.04981827767018e-05 "resident
+species"
+"Haemophilus_parainfluenzae_62356" 0.716157205240175 7.87876741887384e-05 "resident
+species"
+"Haemophilus_parainfluenzae_62468" 0.7117903930131 7.07456907347835e-05 "resident
+species"
+"Lactobacillus_ruminis_57020" 0.0393013100436681 0.000424643729495033 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Phascolarctobacterium_succinatutens_59819" 0.0655021834061135 0.000808074336929021 "resident
+species"
+"Phascolarctobacterium_succinatutens_61948" 0.0655021834061135 0.0020171092966243 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_bromii_62047" 0.593886462882096 0.00798130655117307 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Streptococcus_salivarius_58022" 0.493449781659389 3.62579706556597e-05 "resident
+species"
+"Streptococcus_salivarius_58037" 0.558951965065502 3.59488849587358e-05 "resident
+species"
+"Streptococcus_thermophilus_54772" 0.54585152838428 7.21694422530883e-05 "resident
+species"
+"Veillonella_atypica_58169" 0.558951965065502 3.6430864639344e-05 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_indistinctus_62207" 0.51528384279476 0.000639467337413409 "resident
+species"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Alistipes_sp_59510" 0.414847161572052 0.00201101426708226 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroidales_bacterium_58650" 0.602620087336245 0.00662313614425705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_faecis_58503" 0.799126637554585 0.000318173832686385 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_massiliensis_44749" 0.524017467248908 0.0174251349207795 "resident
+species"
+"Bacteroides_nordii_55557" 0.283842794759825 0.00053250754467108 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_plebeius_61623" 0.222707423580786 0.00167248223910303 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_stercoris_56735" 0.74235807860262 0.0243602608244641 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Barnesiella_intestinihominis_62208" 0.493449781659389 0.0178305409641253 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Butyricimonas_virosa_58742" 0.493449781659389 0.00155237700892901 "resident
+species"
+"Catenibacterium_mitsuokai_61547" 0.0829694323144105 0.000216726569153121 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_bartlettii_61535" 0.406113537117904 6.72291967189376e-05 "resident
+species"
+"Clostridium_leptum_61499" 0.877729257641921 0.000241476400504801 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Desulfovibrio_piger_61475" 0.0873362445414847 0.000459793102748814 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_ramulus_59802" 0.646288209606987 0.000255734989379864 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_siraeum_57634" 0.62882096069869 0.000527786639676326 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Lachnospiraceae_bacterium_51870" 0.829694323144105 0.000853951022379577 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Paraprevotella_clara_33712" 0.262008733624454 0.00550548939946955 "resident
+species"
+"Paraprevotella_xylaniphila_62280" 0.205240174672489 0.00245833070961386 "resident
+species"
+"Phascolarctobacterium_succinatutens_59819" 0.0655021834061135 0.000808074336929021 "resident
+species"
+"Phascolarctobacterium_succinatutens_61948" 0.0655021834061135 0.0020171092966243 "resident
+species"
+"Prevotella_copri_61740" 0.34061135371179 0.00102930406377009 "resident
+species"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Subdoligranulum_sp_62068" 0.96943231441048 0.000748788227715913 "resident
+species"
+"Sutterella_wadsworthensis_56828" 0.344978165938865 0.00388352387298947 "resident
+species"
+"Sutterella_wadsworthensis_62218" 0.209606986899563 0.00315120186276147 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bifidobacterium_animalis_58116" 0.0305676855895196 1.20174761729221e-05 "resident
+species"
+"Bifidobacterium_catenulatum_58257" 0.22707423580786 8.86181212646871e-05 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "resident
+species"
+"Catenibacterium_mitsuokai_61547" 0.0829694323144105 0.000216726569153121 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_sp_61482" 0.157205240174672 0.00132250279480392 "resident
+species"
+"Collinsella_sp_60729" 0.0393013100436681 0.000105350080179782 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Eggerthella_lenta_56463" 0.676855895196507 7.9290566918072e-05 "resident
+species"
+"Eubacterium_biforme_61684" 0.174672489082969 0.000138438167700431 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_ramulus_59802" 0.646288209606987 0.000255734989379864 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_siraeum_57634" 0.62882096069869 0.000527786639676326 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Haemophilus_parainfluenzae_57123" 0.676855895196507 6.04981827767018e-05 "resident
+species"
+"Haemophilus_parainfluenzae_62356" 0.716157205240175 7.87876741887384e-05 "resident
+species"
+"Lactobacillus_acidophilus_51143" 0.0174672489082969 4.49973650398999e-05 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Parabacteroides_johnsonii_55217" 0.62882096069869 0.000540749868789771 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Prevotella_copri_61740" 0.34061135371179 0.00102930406377009 "resident
+species"
+"Prevotella_stercorea_58308" 0.0349344978165939 3.74195467314155e-05 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bromii_62047" 0.593886462882096 0.00798130655117307 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_obeum_62046" 0.51528384279476 5.66628513775274e-05 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_sp_58571" 0.427947598253275 3.87291691178042e-05 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Streptococcus_thermophilus_54772" 0.54585152838428 7.21694422530883e-05 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_acidifaciens_59693" 0.965065502183406 0.000990826541090102 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_fragilis_54507" 0.589519650655022 0.00375894052836999 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bifidobacterium_bifidum_55065" 0.222707423580786 0.000302481676719843 "resident
+species"
+"Bifidobacterium_catenulatum_58257" 0.22707423580786 8.86181212646871e-05 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bifidobacterium_pseudocatenulatum_57754" 0.283842794759825 0.000196053532095405 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_hansenii_56031" 0.074235807860262 0.000100310663026094 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Butyricicoccus_pullicaecorum_59455" 0.0349344978165939 1.67113524332622e-05 "resident
+species"
+"Clostridiales_bacterium_43336" 0.305676855895196 6.33020903830707e-05 "resident
+species"
+"Clostridiales_bacterium_52743" 0.336244541484716 5.51557087011797e-05 "resident
+species"
+"Clostridiales_bacterium_52957" 0.611353711790393 7.31453562993471e-05 "resident
+species"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "resident
+species"
+"Clostridium_bartlettii_61535" 0.406113537117904 6.72291967189376e-05 "resident
+species"
+"Clostridium_bolteae_57158" 0.589519650655022 6.30353053438977e-05 "resident
+species"
+"Clostridium_clostridioforme_51842" 0.275109170305677 3.49020358943422e-05 "resident
+species"
+"Clostridium_clostridioforme_59912" 0.240174672489083 2.10944055077537e-05 "resident
+species"
+"Clostridium_hathewayi_55515" 0.344978165938865 5.6614034393827e-05 "resident
+species"
+"Clostridium_hathewayi_61827" 0.379912663755459 4.72821529394795e-05 "resident
+species"
+"Clostridium_symbiosum_54029" 0.253275109170306 0.000108141749266452 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Eggerthella_lenta_56463" 0.676855895196507 7.9290566918072e-05 "resident
+species"
+"Escherichia_albertii_56276" 0.275109170305677 3.52081484181919e-05 "resident
+species"
+"Escherichia_coli_57907" 0.344978165938865 3.97105139641193e-05 "resident
+species"
+"Escherichia_coli_58110" 0.698689956331878 0.000141212890894795 "resident
+species"
+"Escherichia_fergusonii_56914" 0.502183406113537 7.59599357661424e-05 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Lachnospiraceae_bacterium_51870" 0.829694323144105 0.000853951022379577 "resident
+species"
+"Lachnospiraceae_bacterium_56275" 0.0829694323144105 0.000327628464409611 "resident
+species"
+"Ruminococcaceae_bacterium_61777" 0.362445414847162 4.34816525540771e-05 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_gnavus_57638" 0.672489082969432 0.000186618788182262 "resident
+species"
+"Adlercreutzia_equolifaciens_60310" 0.720524017467249 9.36684014942669e-05 "resident
+species"
+"Akkermansia_muciniphila_55290" 0.580786026200873 0.00256443948360739 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_indistinctus_62207" 0.51528384279476 0.000639467337413409 "resident
+species"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroidales_bacterium_58650" 0.602620087336245 0.00662313614425705 "resident
+species"
+"Bacteroides_acidifaciens_59693" 0.965065502183406 0.000990826541090102 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_fragilis_54507" 0.589519650655022 0.00375894052836999 "resident
+species"
+"Bacteroides_massiliensis_44749" 0.524017467248908 0.0174251349207795 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Barnesiella_intestinihominis_62208" 0.493449781659389 0.0178305409641253 "resident
+species"
+"Bifidobacterium_bifidum_55065" 0.222707423580786 0.000302481676719843 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "resident
+species"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "resident
+species"
+"Clostridiales_bacterium_58120" 0.0786026200873362 9.8618447567983e-05 "resident
+species"
+"Clostridiales_bacterium_59663" 0.240174672489083 5.53281816553745e-05 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_bartlettii_61535" 0.406113537117904 6.72291967189376e-05 "resident
+species"
+"Clostridium_bolteae_57158" 0.589519650655022 6.30353053438977e-05 "resident
+species"
+"Clostridium_sp_60782" 0.506550218340611 4.05662102435262e-05 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprobacter_fastidiosus_56550" 0.248908296943231 0.00218540742561439 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Eggerthella_lenta_56463" 0.676855895196507 7.9290566918072e-05 "resident
+species"
+"Enterobacter_cloacae_55011" 0.0305676855895196 3.32922178468868e-05 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Holdemania_filiformis_61753" 0.720524017467249 0.000115998720376407 "resident
+species"
+"Intestinimonas_butyriciproducens_60001" 0.703056768558952 0.000135298956683513 "resident
+species"
+"Klebsiella_pneumoniae_54788" 0.104803493449782 6.13795984271369e-05 "resident
+species"
+"Lachnospiraceae_bacterium_56275" 0.0829694323144105 0.000327628464409611 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Ruminococcus_bromii_62047" 0.593886462882096 0.00798130655117307 "resident
+species"
+"Ruminococcus_gnavus_57638" 0.672489082969432 0.000186618788182262 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Streptococcus_salivarius_58022" 0.493449781659389 3.62579706556597e-05 "resident
+species"
+"Streptococcus_salivarius_58037" 0.558951965065502 3.59488849587358e-05 "resident
+species"
+"Subdoligranulum_sp_62068" 0.96943231441048 0.000748788227715913 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_acidifaciens_59693" 0.965065502183406 0.000990826541090102 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_clarus_62282" 0.445414847161572 0.000248171959661181 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_fragilis_56548" 0.266375545851528 3.00179153027912e-05 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_stercoris_56735" 0.74235807860262 0.0243602608244641 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "resident
+species"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Escherichia_coli_58110" 0.698689956331878 0.000141212890894795 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Lachnospiraceae_bacterium_51870" 0.829694323144105 0.000853951022379577 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_johnsonii_55217" 0.62882096069869 0.000540749868789771 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_gnavus_57638" 0.672489082969432 0.000186618788182262 "resident
+species"
+"Subdoligranulum_sp_62068" 0.96943231441048 0.000748788227715913 "resident
+species"
+"Adlercreutzia_equolifaciens_60310" 0.720524017467249 9.36684014942669e-05 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Alistipes_sp_59510" 0.414847161572052 0.00201101426708226 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroidales_bacterium_58650" 0.602620087336245 0.00662313614425705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_cellulosilyticus_58046" 0.606986899563319 0.00419572015300266 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_massiliensis_44749" 0.524017467248908 0.0174251349207795 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_stercoris_56735" 0.74235807860262 0.0243602608244641 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Barnesiella_intestinihominis_62208" 0.493449781659389 0.0178305409641253 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Coprococcus_sp_62244" 0.296943231441048 0.00173964076819342 "resident
+species"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_ramulus_59802" 0.646288209606987 0.000255734989379864 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Lactococcus_lactis_57073" 0.331877729257642 4.74996907001283e-05 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcaceae_bacterium_61777" 0.362445414847162 4.34816525540771e-05 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_callidus_61479" 0.292576419213974 0.000328510050975847 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_sp_58571" 0.427947598253275 3.87291691178042e-05 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Streptococcus_parasanguinis_62442" 0.445414847161572 3.29132502109718e-05 "resident
+species"
+"Streptococcus_parasanguinis_62481" 0.40174672489083 3.05232065791918e-05 "resident
+species"
+"Streptococcus_salivarius_58022" 0.493449781659389 3.62579706556597e-05 "resident
+species"
+"Streptococcus_salivarius_58037" 0.558951965065502 3.59488849587358e-05 "resident
+species"
+"Streptococcus_thermophilus_54772" 0.54585152838428 7.21694422530883e-05 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_cellulosilyticus_58046" 0.606986899563319 0.00419572015300266 "resident
+species"
+"Bacteroides_massiliensis_44749" 0.524017467248908 0.0174251349207795 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bifidobacterium_angulatum_45832" 0.0393013100436681 3.94416564703429e-05 "resident
+species"
+"Bifidobacterium_bifidum_55065" 0.222707423580786 0.000302481676719843 "resident
+species"
+"Bifidobacterium_catenulatum_58257" 0.22707423580786 8.86181212646871e-05 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Haemophilus_parainfluenzae_62468" 0.7117903930131 7.07456907347835e-05 "resident
+species"
+"Leuconostoc_argentinum_62436" 0.00873362445414847 3.74400729998059e-05 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Prevotella_copri_61740" 0.34061135371179 0.00102930406377009 "resident
+species"
+"Prevotella_stercorea_58308" 0.0349344978165939 3.74195467314155e-05 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bromii_62047" 0.593886462882096 0.00798130655117307 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Streptococcus_salivarius_58037" 0.558951965065502 3.59488849587358e-05 "resident
+species"
+"Sutterella_wadsworthensis_56828" 0.344978165938865 0.00388352387298947 "resident
+species"
+"Sutterella_wadsworthensis_62218" 0.209606986899563 0.00315120186276147 "resident
+species"
+"Adlercreutzia_equolifaciens_60310" 0.720524017467249 9.36684014942669e-05 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_cellulosilyticus_58046" 0.606986899563319 0.00419572015300266 "resident
+species"
+"Bacteroides_intestinalis_61596" 0.589519650655022 0.00101973894983285 "resident
+species"
+"Bacteroides_massiliensis_44749" 0.524017467248908 0.0174251349207795 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Barnesiella_intestinihominis_62208" 0.493449781659389 0.0178305409641253 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_spiroforme_61500" 0.681222707423581 0.000152687837438263 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Eggerthella_lenta_56463" 0.676855895196507 7.9290566918072e-05 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_ramulus_59802" 0.646288209606987 0.000255734989379864 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_siraeum_57634" 0.62882096069869 0.000527786639676326 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Lachnospiraceae_bacterium_51870" 0.829694323144105 0.000853951022379577 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Phascolarctobacterium_sp_59818" 0.0218340611353712 0.00447982869092811 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_callidus_61479" 0.292576419213974 0.000328510050975847 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_obeum_62046" 0.51528384279476 5.66628513775274e-05 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Subdoligranulum_sp_62068" 0.96943231441048 0.000748788227715913 "resident
+species"
+"Acidaminococcus_intestini_54097" 0.126637554585153 0.00242335240956539 "resident
+species"
+"Akkermansia_muciniphila_55290" 0.580786026200873 0.00256443948360739 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Alistipes_sp_59510" 0.414847161572052 0.00201101426708226 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroidales_bacterium_58650" 0.602620087336245 0.00662313614425705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_cellulosilyticus_58046" 0.606986899563319 0.00419572015300266 "resident
+species"
+"Bacteroides_faecis_58503" 0.799126637554585 0.000318173832686385 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_fragilis_54507" 0.589519650655022 0.00375894052836999 "resident
+species"
+"Bacteroides_intestinalis_61596" 0.589519650655022 0.00101973894983285 "resident
+species"
+"Bacteroides_massiliensis_44749" 0.524017467248908 0.0174251349207795 "resident
+species"
+"Bacteroides_nordii_55557" 0.283842794759825 0.00053250754467108 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_stercoris_56735" 0.74235807860262 0.0243602608244641 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Barnesiella_intestinihominis_62208" 0.493449781659389 0.0178305409641253 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Butyricimonas_virosa_58742" 0.493449781659389 0.00155237700892901 "resident
+species"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_60729" 0.0393013100436681 0.000105350080179782 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprobacter_fastidiosus_56550" 0.248908296943231 0.00218540742561439 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Coprococcus_eutactus_61480" 0.0960698689956332 0.000269530113009563 "resident
+species"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_ramulus_59802" 0.646288209606987 0.000255734989379864 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_siraeum_57634" 0.62882096069869 0.000527786639676326 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Lachnospiraceae_bacterium_51870" 0.829694323144105 0.000853951022379577 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Oxalobacter_formigenes_61802" 0.165938864628821 0.000194495053047698 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_bromii_62047" 0.593886462882096 0.00798130655117307 "resident
+species"
+"Ruminococcus_callidus_61479" 0.292576419213974 0.000328510050975847 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Streptococcus_thermophilus_54772" 0.54585152838428 7.21694422530883e-05 "resident
+species"
+"Sutterella_wadsworthensis_62218" 0.209606986899563 0.00315120186276147 "resident
+species"
+"Alistipes_indistinctus_62207" 0.51528384279476 0.000639467337413409 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_coprocola_61586" 0.14410480349345 0.0104678024382401 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_fragilis_56548" 0.266375545851528 3.00179153027912e-05 "resident
+species"
+"Bacteroides_intestinalis_61596" 0.589519650655022 0.00101973894983285 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_sartorii_54642" 0.956331877729258 0.00107205606794692 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_catenulatum_58257" 0.22707423580786 8.86181212646871e-05 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bifidobacterium_pseudocatenulatum_57754" 0.283842794759825 0.000196053532095405 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Clostridiales_bacterium_43336" 0.305676855895196 6.33020903830707e-05 "resident
+species"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_bolteae_57158" 0.589519650655022 6.30353053438977e-05 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Eggerthella_lenta_56463" 0.676855895196507 7.9290566918072e-05 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_fragilis_54507" 0.589519650655022 0.00375894052836999 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bifidobacterium_bifidum_55065" 0.222707423580786 0.000302481676719843 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "resident
+species"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_bartlettii_61535" 0.406113537117904 6.72291967189376e-05 "resident
+species"
+"Clostridium_bolteae_57158" 0.589519650655022 6.30353053438977e-05 "resident
+species"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Eggerthella_lenta_56463" 0.676855895196507 7.9290566918072e-05 "resident
+species"
+"Erysipelotrichaceae_bacterium_56596" 0.462882096069869 5.0210991038949e-05 "resident
+species"
+"Escherichia_coli_58110" 0.698689956331878 0.000141212890894795 "resident
+species"
+"Escherichia_fergusonii_56914" 0.502183406113537 7.59599357661424e-05 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Pediococcus_acidilactici_57243" 0.0131004366812227 4.33714965125861e-05 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_gnavus_57638" 0.672489082969432 0.000186618788182262 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Streptococcus_thermophilus_54772" 0.54585152838428 7.21694422530883e-05 "resident
+species"
+"Akkermansia_muciniphila_55290" 0.580786026200873 0.00256443948360739 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_senegalensis_58364" 0.724890829694323 8.42311751768719e-05 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Alistipes_sp_59510" 0.414847161572052 0.00201101426708226 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroidales_bacterium_58650" 0.602620087336245 0.00662313614425705 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_eggerthii_54457" 0.624454148471616 0.000418672139893537 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Barnesiella_intestinihominis_62208" 0.493449781659389 0.0178305409641253 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Butyricimonas_virosa_58742" 0.493449781659389 0.00155237700892901 "resident
+species"
+"Butyrivibrio_crossotus_61674" 0.0829694323144105 0.0115362964942164 "resident
+species"
+"Catenibacterium_mitsuokai_61547" 0.0829694323144105 0.000216726569153121 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_sp_61482" 0.157205240174672 0.00132250279480392 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_60729" 0.0393013100436681 0.000105350080179782 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Coprococcus_sp_62244" 0.296943231441048 0.00173964076819342 "resident
+species"
+"Coriobacteriaceae_bacterium_58375" 0.100436681222707 7.9455093317792e-05 "resident
+species"
+"Desulfovibrio_piger_61475" 0.0873362445414847 0.000459793102748814 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Escherichia_coli_58110" 0.698689956331878 0.000141212890894795 "resident
+species"
+"Eubacterium_biforme_61684" 0.174672489082969 0.000138438167700431 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Paraprevotella_clara_33712" 0.262008733624454 0.00550548939946955 "resident
+species"
+"Phascolarctobacterium_succinatutens_59819" 0.0655021834061135 0.000808074336929021 "resident
+species"
+"Phascolarctobacterium_succinatutens_61948" 0.0655021834061135 0.0020171092966243 "resident
+species"
+"Prevotella_copri_61740" 0.34061135371179 0.00102930406377009 "resident
+species"
+"Prevotella_stercorea_58308" 0.0349344978165939 3.74195467314155e-05 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_obeum_62046" 0.51528384279476 5.66628513775274e-05 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "resident
+species"
+"Streptococcus_thermophilus_54772" 0.54585152838428 7.21694422530883e-05 "resident
+species"
+"Subdoligranulum_sp_62068" 0.96943231441048 0.000748788227715913 "resident
+species"
+"Sutterella_wadsworthensis_56828" 0.344978165938865 0.00388352387298947 "resident
+species"
+"Adlercreutzia_equolifaciens_60310" 0.720524017467249 9.36684014942669e-05 "resident
+species"
+"Alistipes_finegoldii_56071" 0.751091703056769 0.00568386943908329 "resident
+species"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "resident
+species"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "resident
+species"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "resident
+species"
+"Alistipes_sp_59510" 0.414847161572052 0.00201101426708226 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_acidifaciens_59693" 0.965065502183406 0.000990826541090102 "resident
+species"
+"Bacteroides_fragilis_56548" 0.266375545851528 3.00179153027912e-05 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_plebeius_61623" 0.222707423580786 0.00167248223910303 "resident
+species"
+"Bacteroides_rodentium_59708" 0.925764192139738 0.0169238994009911 "resident
+species"
+"Bacteroides_sartorii_54642" 0.956331877729258 0.00107205606794692 "resident
+species"
+"Bacteroides_stercoris_56735" 0.74235807860262 0.0243602608244641 "resident
+species"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "resident
+species"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Barnesiella_intestinihominis_62208" 0.493449781659389 0.0178305409641253 "resident
+species"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "resident
+species"
+"Butyricimonas_virosa_58742" 0.493449781659389 0.00155237700892901 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_bartlettii_61535" 0.406113537117904 6.72291967189376e-05 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprobacter_fastidiosus_56550" 0.248908296943231 0.00218540742561439 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Coprococcus_eutactus_61480" 0.0960698689956332 0.000269530113009563 "resident
+species"
+"Coprococcus_sp_62244" 0.296943231441048 0.00173964076819342 "resident
+species"
+"Coriobacteriaceae_bacterium_58375" 0.100436681222707 7.9455093317792e-05 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_59913" 0.633187772925764 0.00024395223895881 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_ramulus_59802" 0.646288209606987 0.000255734989379864 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_ventriosum_61474" 0.589519650655022 0.00102801236075991 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Haemophilus_parainfluenzae_57123" 0.676855895196507 6.04981827767018e-05 "resident
+species"
+"Haemophilus_parainfluenzae_62356" 0.716157205240175 7.87876741887384e-05 "resident
+species"
+"Lachnospiraceae_bacterium_51870" 0.829694323144105 0.000853951022379577 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "resident
+species"
+"Oxalobacter_formigenes_61802" 0.165938864628821 0.000194495053047698 "resident
+species"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "resident
+species"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "resident
+species"
+"Paraprevotella_clara_33712" 0.262008733624454 0.00550548939946955 "resident
+species"
+"Paraprevotella_xylaniphila_62280" 0.205240174672489 0.00245833070961386 "resident
+species"
+"Phascolarctobacterium_sp_59817" 0.637554585152838 0.00580994058449095 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_bromii_62047" 0.593886462882096 0.00798130655117307 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Adlercreutzia_equolifaciens_60310" 0.720524017467249 9.36684014942669e-05 "resident
+species"
+"Akkermansia_muciniphila_55290" 0.580786026200873 0.00256443948360739 "resident
+species"
+"Anaerostipes_hadrus_55206" 0.908296943231441 0.000386038576717705 "resident
+species"
+"Bacteroides_acidifaciens_59693" 0.965065502183406 0.000990826541090102 "resident
+species"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "resident
+species"
+"Bacteroides_finegoldii_57739" 0.816593886462882 0.000881156183717678 "resident
+species"
+"Bacteroides_fragilis_56548" 0.266375545851528 3.00179153027912e-05 "resident
+species"
+"Bacteroides_nordii_55557" 0.283842794759825 0.00053250754467108 "resident
+species"
+"Bacteroides_ovatus_58035" 0.982532751091703 0.0268542869391289 "resident
+species"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "resident
+species"
+"Bacteroides_xylanisolvens_57185" 0.978165938864629 0.00976855182894886 "resident
+species"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "resident
+species"
+"Bilophila_wadsworthia_57364" 0.755458515283843 0.000425664817793517 "resident
+species"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "resident
+species"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "resident
+species"
+"Clostridiaceae_bacterium_58376" 0.493449781659389 6.88633065511987e-05 "resident
+species"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "resident
+species"
+"Clostridiales_bacterium_61057" 0.829694323144105 0.000221516798521763 "resident
+species"
+"Clostridium_bartlettii_61535" 0.406113537117904 6.72291967189376e-05 "resident
+species"
+"Clostridium_sp_61482" 0.157205240174672 0.00132250279480392 "resident
+species"
+"Clostridium_symbiosum_54029" 0.253275109170306 0.000108141749266452 "resident
+species"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "resident
+species"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "resident
+species"
+"Coprococcus_catus_62200" 0.602620087336245 0.000133334277784956 "resident
+species"
+"Coprococcus_comes_61587" 0.777292576419214 0.000595841666272805 "resident
+species"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "resident
+species"
+"Dorea_formicigenerans_56346" 0.88646288209607 0.000525547827245049 "resident
+species"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "resident
+species"
+"Escherichia_coli_58110" 0.698689956331878 0.000141212890894795 "resident
+species"
+"Escherichia_fergusonii_56914" 0.502183406113537 7.59599357661424e-05 "resident
+species"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "resident
+species"
+"Eubacterium_hallii_61477" 0.842794759825327 0.000170727465654585 "resident
+species"
+"Eubacterium_rectale_56927" 0.947598253275109 0.0101336858162611 "resident
+species"
+"Eubacterium_siraeum_57634" 0.62882096069869 0.000527786639676326 "resident
+species"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "resident
+species"
+"Faecalibacterium_prausnitzii_57453" 0.851528384279476 0.00429147702692029 "resident
+species"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "resident
+species"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "resident
+species"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "resident
+species"
+"Intestinimonas_butyriciproducens_60001" 0.703056768558952 0.000135298956683513 "resident
+species"
+"Lachnospiraceae_bacterium_51870" 0.829694323144105 0.000853951022379577 "resident
+species"
+"Lachnospiraceae_bacterium_56833" 0.419213973799127 7.04281834890596e-05 "resident
+species"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "resident
+species"
+"Oscillospiraceae_bacterium_54867" 0.982532751091703 0.00237052281078305 "resident
+species"
+"Roseburia_hominis_61877" 0.838427947598253 0.000560744239379226 "resident
+species"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "resident
+species"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "resident
+species"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "resident
+species"
+"Ruminococcus_obeum_61472" 0.829694323144105 0.000280265824854643 "resident
+species"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "resident
+species"
+"Subdoligranulum_sp_62068" 0.96943231441048 0.000748788227715913 "resident
+species"
+"Adlercreutzia_equolifaciens_60310" 0.720524017467249 9.36684014942669e-05 "new colonizer
+>1 month post-abx"
+"Alistipes_onderdonkii_55464" 0.794759825327511 0.00787710086670589 "new colonizer
+>1 month post-abx"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "new colonizer
+>1 month post-abx"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "new colonizer
+>1 month post-abx"
+"Anaeroglobus_geminatus_62348" 0.00873362445414847 1.34959126527682e-05 "new colonizer
+<1 month post-abx"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "new colonizer
+>1 month post-abx"
+"Bacteroides_vulgatus_57955" 0.973799126637555 0.156875578692853 "new colonizer
+>1 month post-abx"
+"Bifidobacterium_animalis_58116" 0.0305676855895196 1.20174761729221e-05 "new colonizer
+>1 month post-abx"
+"Bifidobacterium_longum_57796" 0.685589519650655 0.000422070742829304 "new colonizer
+>1 month post-abx"
+"Blautia_wexlerae_56130" 0.982532751091703 0.00130243930570928 "new colonizer
+<1 month post-abx"
+"Butyricicoccus_pullicaecorum_59455" 0.0349344978165939 1.67113524332622e-05 "new colonizer
+>1 month post-abx"
+"Campylobacter_concisus_59753" 0.0873362445414847 1.42272724842336e-05 "new colonizer
+<1 month post-abx"
+"Campylobacter_concisus_62542" 0.0786026200873362 1.69907948990223e-05 "new colonizer
+<1 month post-abx"
+"Campylobacter_gracilis_61787" 0.0174672489082969 1.09088966088453e-05 "new colonizer
+<1 month post-abx"
+"Campylobacter_sp_62066" 0.0829694323144105 1.14265469468385e-05 "new colonizer
+<1 month post-abx"
+"Clostridium_lentocellum_62000" 0.00436681222707424 3.15974235416584e-05 "new colonizer
+<1 month post-abx"
+"Clostridium_nexile_61654" 0.152838427947598 0.000194577293779553 "new colonizer
+>1 month post-abx"
+"Clostridium_sp_61556" 0.0131004366812227 8.63759284433577e-06 "new colonizer
+<1 month post-abx"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "new colonizer
+>1 month post-abx"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "new colonizer
+>1 month post-abx"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "new colonizer
+<1 month post-abx"
+"Enterococcus_casseliflavus_56514" NA NA "new colonizer
+<1 month post-abx"
+"Escherichia_coli_57907" 0.344978165938865 3.97105139641193e-05 "new colonizer
+>1 month post-abx"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "new colonizer
+>1 month post-abx"
+"Faecalibacterium_cf_62236" 0.938864628820961 0.00356813771204222 "new colonizer
+>1 month post-abx"
+"Fusobacterium_nucleatum_57450" 0.0655021834061135 1.42485422718632e-05 "new colonizer
+<1 month post-abx"
+"Fusobacterium_nucleatum_57855" 0.074235807860262 1.8313052051143e-05 "new colonizer
+<1 month post-abx"
+"Intestinimonas_butyriciproducens_60001" 0.703056768558952 0.000135298956683513 "new colonizer
+>1 month post-abx"
+"Klebsiella_pneumoniae_54788" 0.104803493449782 6.13795984271369e-05 "new colonizer
+<1 month post-abx"
+"Megasphaera_micronuciformis_62167" 0.187772925764192 2.07135972552176e-05 "new colonizer
+<1 month post-abx"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "new colonizer
+>1 month post-abx"
+"Prevotella_buccae_56058" 0.00873362445414847 0.000589200787090887 "new colonizer
+<1 month post-abx"
+"Ruminococcus_callidus_61479" 0.292576419213974 0.000328510050975847 "new colonizer
+>1 month post-abx"
+"Streptococcus_australis_62469" 0.37117903930131 2.14277406979141e-05 "new colonizer
+<1 month post-abx"
+"Streptococcus_salivarius_58037" 0.558951965065502 3.59488849587358e-05 "new colonizer
+>1 month post-abx"
+"Streptococcus_sp_57750" 0.296943231441048 2.34269585177208e-05 "new colonizer
+<1 month post-abx"
+"Bifidobacterium_animalis_58116" 0.0305676855895196 1.20174761729221e-05 "new colonizer
+>1 month post-abx"
+"Bifidobacterium_scardovii_44511" 0.00436681222707424 6.38374962224532e-05 "new colonizer
+>1 month post-abx"
+"Blautia_producta_61268" 0.157205240174672 4.24762846068211e-05 "new colonizer
+>1 month post-abx"
+"Butyricicoccus_pullicaecorum_59455" 0.0349344978165939 1.67113524332622e-05 "new colonizer
+>1 month post-abx"
+"Citrobacter_amalonaticus_54491" 0.00873362445414847 0.000164530576492764 "new colonizer
+>1 month post-abx"
+"Citrobacter_freundii_56148" 0.0174672489082969 7.92177586035534e-05 "new colonizer
+<1 month post-abx"
+"Citrobacter_sp_60882" 0.00436681222707424 2.86218697132518e-05 "new colonizer
+<1 month post-abx"
+"Clostridiales_bacterium_43336" 0.305676855895196 6.33020903830707e-05 "new colonizer
+<1 month post-abx"
+"Clostridiales_bacterium_56470" 0.943231441048035 0.000488097734289148 "new colonizer
+>1 month post-abx"
+"Clostridiales_bacterium_58120" 0.0786026200873362 9.8618447567983e-05 "new colonizer
+>1 month post-abx"
+"Clostridium_citroniae_62210" 0.467248908296943 5.5774207466546e-05 "new colonizer
+>1 month post-abx"
+"Clostridium_lentocellum_62000" 0.00436681222707424 3.15974235416584e-05 "new colonizer
+>1 month post-abx"
+"Clostridium_nexile_61654" 0.152838427947598 0.000194577293779553 "new colonizer
+<1 month post-abx"
+"Clostridium_paraputrificum_59909" 0.0655021834061135 3.99952128161681e-05 "new colonizer
+<1 month post-abx"
+"Clostridium_sp_61556" 0.0131004366812227 8.63759284433577e-06 "new colonizer
+<1 month post-abx"
+"Clostridium_spiroforme_61500" 0.681222707423581 0.000152687837438263 "new colonizer
+<1 month post-abx"
+"Clostridium_symbiosum_54029" 0.253275109170306 0.000108141749266452 "new colonizer
+<1 month post-abx"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "new colonizer
+<1 month post-abx"
+"Dorea_longicatena_61473" 0.768558951965066 0.000329454172880203 "new colonizer
+>1 month post-abx"
+"Enterobacter_cloacae_57303" 0.0305676855895196 7.28681779194481e-05 "new colonizer
+>1 month post-abx"
+"Erysipelotrichaceae_bacterium_55770" 0.467248908296943 8.47423645162495e-05 "new colonizer
+>1 month post-abx"
+"Erysipelotrichaceae_bacterium_59516" 0.00436681222707424 3.43764975101897e-06 "new colonizer
+>1 month post-abx"
+"Guyana_massiliensis_60772" 0.733624454148472 0.000462674764348104 "new colonizer
+>1 month post-abx"
+"Klebsiella_pneumoniae_57337" 0.0524017467248908 0.000114574868217857 "new colonizer
+>1 month post-abx"
+"Lachnospiraceae_bacterium_51870" 0.829694323144105 0.000853951022379577 "new colonizer
+>1 month post-abx"
+"Lachnospiraceae_bacterium_56275" 0.0829694323144105 0.000327628464409611 "new colonizer
+>1 month post-abx"
+"Prevotella_oris_57058" 0.00873362445414847 1.82984308618808e-05 "new colonizer
+<1 month post-abx"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "new colonizer
+>1 month post-abx"
+"Streptococcus_gallolyticus_57748" 0.0131004366812227 0.000175936933544383 "new colonizer
+<1 month post-abx"
+"Citrobacter_freundii_56148" 0.0174672489082969 7.92177586035534e-05 "new colonizer
+>1 month post-abx"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "new colonizer
+<1 month post-abx"
+"Streptococcus_thermophilus_54772" 0.54585152838428 7.21694422530883e-05 "new colonizer
+>1 month post-abx"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "new colonizer
+>1 month post-abx"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "new colonizer
+>1 month post-abx"
+"Clostridium_nexile_61654" 0.152838427947598 0.000194577293779553 "new colonizer
+>1 month post-abx"
+"Oscillibacter_sp_60799" 0.685589519650655 0.0094107946586541 "new colonizer
+>1 month post-abx"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "new colonizer
+>1 month post-abx"
+"Sutterella_wadsworthensis_62218" 0.209606986899563 0.00315120186276147 "new colonizer
+>1 month post-abx"
+"Alistipes_putredinis_61533" 0.842794759825327 0.0638951357231912 "new colonizer
+>1 month post-abx"
+"Bacteroides_caccae_53434" 0.803493449781659 0.0138699465299233 "new colonizer
+>1 month post-abx"
+"Bacteroides_clarus_62282" 0.445414847161572 0.000248171959661181 "new colonizer
+>1 month post-abx"
+"Clostridiales_bacterium_52743" 0.336244541484716 5.51557087011797e-05 "new colonizer
+<1 month post-abx"
+"Clostridium_hathewayi_55515" 0.344978165938865 5.6614034393827e-05 "new colonizer
+<1 month post-abx"
+"Parabacteroides_distasonis_56985" 0.825327510917031 0.0125422953844865 "new colonizer
+>1 month post-abx"
+"Parabacteroides_johnsonii_55217" 0.62882096069869 0.000540749868789771 "new colonizer
+>1 month post-abx"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "new colonizer
+>1 month post-abx"
+"Ruminococcus_gnavus_57638" 0.672489082969432 0.000186618788182262 "new colonizer
+<1 month post-abx"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "new colonizer
+>1 month post-abx"
+"Ruminococcus_sp_55468" 0.873362445414847 0.000340954783608919 "new colonizer
+<1 month post-abx"
+"Akkermansia_muciniphila_55290" 0.580786026200873 0.00256443948360739 "new colonizer
+<1 month post-abx"
+"Bacteroidales_bacterium_58650" 0.602620087336245 0.00662313614425705 "new colonizer
+>1 month post-abx"
+"Ruminococcus_torques_62045" 0.825327510917031 0.000934922356167471 "new colonizer
+>1 month post-abx"
+"Bacteroides_uniformis_57318" 0.934497816593886 0.0567949194828319 "new colonizer
+<1 month post-abx"
+"Bifidobacterium_pseudocatenulatum_57754" 0.283842794759825 0.000196053532095405 "new colonizer
+>1 month post-abx"
+"Bifidobacterium_pseudolongum_57709" 0.0305676855895196 1.31432171318373e-05 "new colonizer
+<1 month post-abx"
+"Clostridiales_bacterium_52743" 0.336244541484716 5.51557087011797e-05 "new colonizer
+<1 month post-abx"
+"Clostridium_hathewayi_55515" 0.344978165938865 5.6614034393827e-05 "new colonizer
+<1 month post-abx"
+"Faecalibacterium_prausnitzii_61481" 0.847161572052402 0.00237473693007813 "new colonizer
+>1 month post-abx"
+"Lachnospiraceae_bacterium_51870" 0.829694323144105 0.000853951022379577 "new colonizer
+>1 month post-abx"
+"Odoribacter_splanchnicus_62174" 0.755458515283843 0.00769242430091788 "new colonizer
+>1 month post-abx"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "new colonizer
+>1 month post-abx"
+"Roseburia_inulinivorans_61943" 0.873362445414847 0.00118965589720154 "new colonizer
+>1 month post-abx"
+"Ruminococcus_gnavus_57638" 0.672489082969432 0.000186618788182262 "new colonizer
+>1 month post-abx"
+"Clostridiales_bacterium_52743" 0.336244541484716 5.51557087011797e-05 "new colonizer
+>1 month post-abx"
+"Collinsella_aerofaciens_61484" 0.729257641921397 0.000325535115619539 "new colonizer
+>1 month post-abx"
+"Collinsella_sp_62205" 0.720524017467249 0.000469575646389024 "new colonizer
+>1 month post-abx"
+"Faecalibacterium_prausnitzii_62201" 0.921397379912664 0.00280087512211408 "new colonizer
+>1 month post-abx"
+"Escherichia_coli_58110" 0.698689956331878 0.000141212890894795 "new colonizer
+<1 month post-abx"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "new colonizer
+>1 month post-abx"
+"Ruminococcus_callidus_61479" 0.292576419213974 0.000328510050975847 "new colonizer
+>1 month post-abx"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "new colonizer
+>1 month post-abx"
+"Ruminococcus_bromii_62047" 0.593886462882096 0.00798130655117307 "new colonizer
+>1 month post-abx"
+"Alistipes_sp_60764" 0.152838427947598 0.00213971818894585 "new colonizer
+<1 month post-abx"
+"Bifidobacterium_animalis_58116" 0.0305676855895196 1.20174761729221e-05 "new colonizer
+<1 month post-abx"
+"Bacteroides_fragilis_54507" 0.589519650655022 0.00375894052836999 "new colonizer
+>1 month post-abx"
+"Clostridium_symbiosum_54029" 0.253275109170306 0.000108141749266452 "new colonizer
+>1 month post-abx"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "new colonizer
+<1 month post-abx"
+"Megamonas_hypermegale_57114" 0.0480349344978166 0.000163073018772287 "new colonizer
+>1 month post-abx"
+"Prevotella_copri_61740" 0.34061135371179 0.00102930406377009 "new colonizer
+<1 month post-abx"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "new colonizer
+<1 month post-abx"
+"Citrobacter_freundii_56148" 0.0174672489082969 7.92177586035534e-05 "new colonizer
+>1 month post-abx"
+"Enterobacter_cloacae_55612" 0.0174672489082969 9.23086440221619e-05 "new colonizer
+<1 month post-abx"
+"Megasphaera_elsdenii_56779" 0.0218340611353712 6.36243864845497e-05 "new colonizer
+<1 month post-abx"
+"Bacteroides_acidifaciens_59693" 0.965065502183406 0.000990826541090102 "new colonizer
+<1 month post-abx"
+"Bacteroides_stercoris_56735" 0.74235807860262 0.0243602608244641 "new colonizer
+<1 month post-abx"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "new colonizer
+>1 month post-abx"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "new colonizer
+>1 month post-abx"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "new colonizer
+>1 month post-abx"
+"Roseburia_intestinalis_56239" 0.799126637554585 0.00125549956616047 "new colonizer
+<1 month post-abx"
+"Subdoligranulum_sp_62068" 0.96943231441048 0.000748788227715913 "new colonizer
+>1 month post-abx"
+"Bacteroides_thetaiotaomicron_56941" 0.873362445414847 0.0125260978615334 "new colonizer
+>1 month post-abx"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "new colonizer
+>1 month post-abx"
+"Turicibacter_sanguinis_52329" 0.200873362445415 4.41651068831227e-05 "new colonizer
+>1 month post-abx"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "new colonizer
+>1 month post-abx"
+"Escherichia_albertii_56276" 0.275109170305677 3.52081484181919e-05 "new colonizer
+>1 month post-abx"
+"Clostridium_sp_60465" 0.139737991266376 3.57278401503277e-05 "new colonizer
+<1 month post-abx"
+"Ruminococcus_gnavus_57638" 0.672489082969432 0.000186618788182262 "new colonizer
+<1 month post-abx"
+"Coprococcus_sp_62244" 0.296943231441048 0.00173964076819342 "new colonizer
+>1 month post-abx"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "new colonizer
+>1 month post-abx"
+"Klebsiella_pneumoniae_54688" 0.0655021834061135 3.98822491612557e-05 "new colonizer
+>1 month post-abx"
+"Dialister_invisus_61905" 0.558951965065502 0.00932588112255847 "new colonizer
+<1 month post-abx"
+"Clostridiaceae_bacterium_58376" 0.493449781659389 6.88633065511987e-05 "new colonizer
+>1 month post-abx"
+"Clostridiales_bacterium_52743" 0.336244541484716 5.51557087011797e-05 "new colonizer
+>1 month post-abx"
+"Escherichia_albertii_56276" 0.275109170305677 3.52081484181919e-05 "new colonizer
+>1 month post-abx"
+"Alistipes_sp_58363" 0.406113537117904 0.000105514258923246 "new colonizer
+>1 month post-abx"
+"Clostridiales_bacterium_43336" 0.305676855895196 6.33020903830707e-05 "new colonizer
+<1 month post-abx"
+"Bifidobacterium_dentium_55719" 0.0393013100436681 1.28251529509367e-05 "new colonizer
+>1 month post-abx"
+"Burkholderiales_bacterium_56577" 0.729257641921397 0.00219067330867961 "new colonizer
+>1 month post-abx"
+"Coprococcus_eutactus_61480" 0.0960698689956332 0.000269530113009563 "new colonizer
+>1 month post-abx"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "new colonizer
+>1 month post-abx"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "new colonizer
+<1 month post-abx"
+"Veillonella_dispar_61763" 0.550218340611354 4.01884262026858e-05 "new colonizer
+<1 month post-abx"
+"Enterobacteriaceae_bacterium_58100" 0.00436681222707424 0.000235047366576865 "new colonizer
+>1 month post-abx"
+"Ruminococcus_bicirculans_59300" 0.768558951965066 0.00511157239935175 "new colonizer
+>1 month post-abx"
+"Bacteroidales_bacterium_58650" 0.602620087336245 0.00662313614425705 "new colonizer
+<1 month post-abx"
+"Bifidobacterium_adolescentis_56815" 0.541484716157205 0.000773352850756627 "new colonizer
+<1 month post-abx"
+"Clostridiales_bacterium_52743" 0.336244541484716 5.51557087011797e-05 "new colonizer
+<1 month post-abx"
+"Clostridium_spiroforme_61500" 0.681222707423581 0.000152687837438263 "new colonizer
+<1 month post-abx"
+"Bifidobacterium_catenulatum_58257" 0.22707423580786 8.86181212646871e-05 "new colonizer
+<1 month post-abx"
+"Clostridiales_bacterium_52743" 0.336244541484716 5.51557087011797e-05 "new colonizer
+>1 month post-abx"
+"Coprococcus_eutactus_61480" 0.0960698689956332 0.000269530113009563 "new colonizer
+>1 month post-abx"
+"Alistipes_shahii_62199" 0.812227074235808 0.0140992045838508 "new colonizer
+>1 month post-abx"
+"Eubacterium_eligens_61678" 0.807860262008734 0.00243738961721252 "new colonizer
+>1 month post-abx"
+"Klebsiella_pneumoniae_54788" 0.104803493449782 6.13795984271369e-05 "new colonizer
+>1 month post-abx"
+"Parabacteroides_merdae_56972" 0.786026200873362 0.0215995229653722 "new colonizer
+>1 month post-abx"
+"Ruminococcus_lactaris_55568" 0.427947598253275 0.000569597179038537 "new colonizer
+>1 month post-abx"

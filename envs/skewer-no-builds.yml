@@ -1,0 +1,11 @@
+name: skewer
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - libgcc-ng=9.1.0
+  - libstdcxx-ng=9.1.0
+  - skewer=0.2.2
+prefix: /home/users/kxue/.bin/miniconda3/envs/skewer
+

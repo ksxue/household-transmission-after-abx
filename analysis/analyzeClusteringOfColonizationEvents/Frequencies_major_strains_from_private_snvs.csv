@@ -1,0 +1,73 @@
+,sample,median_freq_private_snvs,strain,timepoint
+0,HouseholdTransmission-Stool-XAA-454,0.0,Major Strain Main Study,454
+1,HouseholdTransmission-Stool-XAA-028,0.8545,Major Strain Main Study,28
+2,HouseholdTransmission-Stool-XAA-555,0.0,Major Strain Main Study,555
+3,HouseholdTransmission-Stool-XAA-014,0.882,Major Strain Main Study,14
+4,HouseholdTransmission-Stool-XAA-024,0.8714999999999999,Major Strain Main Study,24
+5,HouseholdTransmission-Stool-XAA-002,0.9005000000000001,Major Strain Main Study,2
+6,HouseholdTransmission-Stool-XAA-022,0.87,Major Strain Main Study,22
+7,HouseholdTransmission-Stool-XAA-027,0.871,Major Strain Main Study,27
+8,HouseholdTransmission-Stool-XAA-652,0.0,Major Strain Main Study,652
+9,HouseholdTransmission-Stool-XAA-026,0.8705,Major Strain Main Study,26
+10,HouseholdTransmission-Stool-XAA-590,0.0,Major Strain Main Study,590
+11,HouseholdTransmission-Stool-XAA-021,0.858,Major Strain Main Study,21
+12,HouseholdTransmission-Stool-XAA-023,0.839,Major Strain Main Study,23
+13,HouseholdTransmission-Stool-XAA-029,0.8534999999999999,Major Strain Main Study,29
+14,HouseholdTransmission-Stool-XAA-623,0.0,Major Strain Main Study,623
+15,HouseholdTransmission-Stool-XAA-010,0.962,Major Strain Main Study,10
+16,HouseholdTransmission-Stool-XAA-488,0.0,Major Strain Main Study,488
+17,HouseholdTransmission-Stool-XAA-522,0.0,Major Strain Main Study,522
+0,HouseholdTransmission-Stool-XAA-454,0.0,Minor Strain Main Study,454
+1,HouseholdTransmission-Stool-XAA-028,0.098,Minor Strain Main Study,28
+2,HouseholdTransmission-Stool-XAA-555,0.0,Minor Strain Main Study,555
+3,HouseholdTransmission-Stool-XAA-014,0.133,Minor Strain Main Study,14
+4,HouseholdTransmission-Stool-XAA-024,0.111,Minor Strain Main Study,24
+5,HouseholdTransmission-Stool-XAA-002,0.106,Minor Strain Main Study,2
+6,HouseholdTransmission-Stool-XAA-022,0.122,Minor Strain Main Study,22
+7,HouseholdTransmission-Stool-XAA-027,0.1205,Minor Strain Main Study,27
+8,HouseholdTransmission-Stool-XAA-652,0.0,Minor Strain Main Study,652
+9,HouseholdTransmission-Stool-XAA-026,0.164,Minor Strain Main Study,26
+10,HouseholdTransmission-Stool-XAA-590,0.0,Minor Strain Main Study,590
+11,HouseholdTransmission-Stool-XAA-021,0.148,Minor Strain Main Study,21
+12,HouseholdTransmission-Stool-XAA-023,0.0857,Minor Strain Main Study,23
+13,HouseholdTransmission-Stool-XAA-029,0.0556,Minor Strain Main Study,29
+14,HouseholdTransmission-Stool-XAA-623,0.0,Minor Strain Main Study,623
+15,HouseholdTransmission-Stool-XAA-010,0.13,Minor Strain Main Study,10
+16,HouseholdTransmission-Stool-XAA-488,0.0,Minor Strain Main Study,488
+17,HouseholdTransmission-Stool-XAA-522,0.0,Minor Strain Main Study,522
+0,HouseholdTransmission-Stool-XAA-454,0.51,Major Strain Follow Up Study,454
+1,HouseholdTransmission-Stool-XAA-028,0.0,Major Strain Follow Up Study,28
+2,HouseholdTransmission-Stool-XAA-555,0.892,Major Strain Follow Up Study,555
+3,HouseholdTransmission-Stool-XAA-014,0.0,Major Strain Follow Up Study,14
+4,HouseholdTransmission-Stool-XAA-024,0.0,Major Strain Follow Up Study,24
+5,HouseholdTransmission-Stool-XAA-002,0.0,Major Strain Follow Up Study,2
+6,HouseholdTransmission-Stool-XAA-022,0.0,Major Strain Follow Up Study,22
+7,HouseholdTransmission-Stool-XAA-027,0.0,Major Strain Follow Up Study,27
+8,HouseholdTransmission-Stool-XAA-652,0.847,Major Strain Follow Up Study,652
+9,HouseholdTransmission-Stool-XAA-026,0.0,Major Strain Follow Up Study,26
+10,HouseholdTransmission-Stool-XAA-590,0.843,Major Strain Follow Up Study,590
+11,HouseholdTransmission-Stool-XAA-021,0.0,Major Strain Follow Up Study,21
+12,HouseholdTransmission-Stool-XAA-023,0.0,Major Strain Follow Up Study,23
+13,HouseholdTransmission-Stool-XAA-029,0.0,Major Strain Follow Up Study,29
+14,HouseholdTransmission-Stool-XAA-623,0.786,Major Strain Follow Up Study,623
+15,HouseholdTransmission-Stool-XAA-010,0.0,Major Strain Follow Up Study,10
+16,HouseholdTransmission-Stool-XAA-488,0.952,Major Strain Follow Up Study,488
+17,HouseholdTransmission-Stool-XAA-522,0.963,Major Strain Follow Up Study,522
+0,HouseholdTransmission-Stool-XAA-454,0.2195,Minor Strain Follow Up Study,454
+1,HouseholdTransmission-Stool-XAA-028,0.002625,Minor Strain Follow Up Study,28
+2,HouseholdTransmission-Stool-XAA-555,0.0834,Minor Strain Follow Up Study,555
+3,HouseholdTransmission-Stool-XAA-014,0.0196,Minor Strain Follow Up Study,14
+4,HouseholdTransmission-Stool-XAA-024,0.0172,Minor Strain Follow Up Study,24
+5,HouseholdTransmission-Stool-XAA-002,0.0,Minor Strain Follow Up Study,2
+6,HouseholdTransmission-Stool-XAA-022,0.0147,Minor Strain Follow Up Study,22
+7,HouseholdTransmission-Stool-XAA-027,0.0,Minor Strain Follow Up Study,27
+8,HouseholdTransmission-Stool-XAA-652,0.0915,Minor Strain Follow Up Study,652
+9,HouseholdTransmission-Stool-XAA-026,0.0123,Minor Strain Follow Up Study,26
+10,HouseholdTransmission-Stool-XAA-590,0.092,Minor Strain Follow Up Study,590
+11,HouseholdTransmission-Stool-XAA-021,0.0179,Minor Strain Follow Up Study,21
+12,HouseholdTransmission-Stool-XAA-023,0.0211,Minor Strain Follow Up Study,23
+13,HouseholdTransmission-Stool-XAA-029,0.0,Minor Strain Follow Up Study,29
+14,HouseholdTransmission-Stool-XAA-623,0.04585,Minor Strain Follow Up Study,623
+15,HouseholdTransmission-Stool-XAA-010,0.00962,Minor Strain Follow Up Study,10
+16,HouseholdTransmission-Stool-XAA-488,0.0714,Minor Strain Follow Up Study,488
+17,HouseholdTransmission-Stool-XAA-522,0.065,Minor Strain Follow Up Study,522

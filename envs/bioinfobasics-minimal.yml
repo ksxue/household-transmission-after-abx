@@ -1,0 +1,15 @@
+name: bioinfobasics
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bedtools=2.30.0
+  - blast=2.12.0
+  - bowtie2=2.4.2
+  - cutadapt=1.18
+  - samtools=1.7
+  - skewer=0.2.2
+  - umi_tools=1.1.1
+
+prefix: /home/users/kxue/.bin/miniconda3/envs/bioinfobasics

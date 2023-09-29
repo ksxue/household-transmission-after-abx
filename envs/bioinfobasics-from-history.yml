@@ -1,0 +1,16 @@
+name: bioinfobasics
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - skewer
+  - umi_tools
+  - bowtie2
+  - cutadapt
+  - blast
+  - ca-certificates
+  - certifi
+  - openssl
+  - samtools=1.9
+  - bedtools
+prefix: /home/users/kxue/.bin/miniconda3/envs/bioinfobasics

@@ -1,0 +1,11 @@
+name: Renv-minimal
+channels:
+ - conda-forge
+dependencies:
+ - r-base=4.1
+ - r-tidyverse
+ - r-foreach
+ - r-cowplot
+ - r-data.table
+ - r-forcats
+ - r-r.utils
