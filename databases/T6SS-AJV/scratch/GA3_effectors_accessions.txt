@@ -1,0 +1,19 @@
+GA3_E1	M117_RS11205	NZ_JGCR01000228.1:c38080-37085 Bacteroides fragilis str. 3774 T13 gbf3774T13.contig.233, whole genome shotgun sequence
+GA3_E2	M117_RS11240	NZ_JGCR01000228.1:c30338-28512 Bacteroides fragilis str. 3774 T13 gbf3774T13.contig.233, whole genome shotgun sequence
+GA3_E3	M117_RS23385	NZ_JGCR01000228.1:c27088-25235 Bacteroides fragilis str. 3774 T13 gbf3774T13.contig.233, whole genome shotgun sequence
+GA3_E4	M074_RS10745	NZ_JGDD01000090.1:c37344-36460 Bacteroides fragilis str. DS-166 gbfDS166.contig.93, whole genome shotgun sequence
+GA3_E5	M074_RS10800	NZ_JGDD01000090.1:c28997-26028 Bacteroides fragilis str. DS-166 gbfDS166.contig.93, whole genome shotgun sequence
+GA3_E6	BF9343_1937	CR626927.1:c2364985-2364119 Bacteroides fragilis NCTC 9343, complete genome	
+GA3_E7	BF9343_1928	CR626927.1:c2356975-2353982 Bacteroides fragilis NCTC 9343, complete genome
+GA3_E8	M068_RS11120	NZ_JGDV01000034.1:c34566-32269 Bacteroides fragilis str. J38-1 gbfJ381.contig.33, whole genome shotgun sequence
+GA3_E9	M065_RS13210
+GA3_E10	M065_RS13185
+GA3_E11	M069_RS16890
+GA3_E12	M069_RS31145 
+GA3_E13	M073_RS11420	NZ_JGDF01000079.1:c29208-26101 Bacteroides fragilis str. DS-71 gbfDS71.contig.79, whole genome shotgun sequence
+GA3_E14	HMPREF1205_RS15360	NZ_JH815524.1:1598501-1599529 Bacteroides fragilis HMW 616 supercont1.1, whole genome shotgun sequence
+
+
+GA3_I13	M073_1832	NZ_JGDF01000079.1:c26080-24923 Bacteroides fragilis str. DS-71 gbfDS71.contig.79, whole genome shotgun sequence
+
+https://github.com/borenstein-lab/T6SS/blob/master/Data/CombinedEffectorsImmunity_No1415.fa

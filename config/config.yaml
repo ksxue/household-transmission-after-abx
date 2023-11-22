@@ -1,0 +1,35 @@
+project: "HouseholdTransmission-Stool"
+
+# Input directories and files.
+snakedir: "/oak/stanford/groups/relman/users/kxue/household-transmission-mgx"
+fastqdir: "/oak/stanford/groups/relman/raw_data/dorang/201023-SalivaMgx"
+sampleFileRaw: "config/samples-raw.txt"
+# sampleFileRaw: "config/samples-raw-test.txt"
+sampleFileTest: "config/phase1stoolsamples-test.txt"
+speciesTaxonomy: "workflow/out/midasOutput/database/species_taxonomy.txt"
+
+# Human genome reference bowtie2 index.
+humanGenomeRef: "/oak/stanford/groups/relman/public/databases/GRCh38_noalt_as/GRCh38_noalt_as"
+# MIDAS database files.
+speciesInfo: "/oak/stanford/groups/relman/public/databases/midas_db_v1.2/species_info.txt"
+genomeTaxonomy: "/oak/stanford/groups/relman/public/databases/midas_db_v1.2/genome_taxonomy.txt"
+# T6SS reference bowtie2 index
+T6SSRef: "/oak/stanford/groups/relman/users/kxue/household-transmission-mgx/databases/T6SS-AJV/T6SS_CTD"
+
+# Output directories
+trimdir: "/scratch/groups/relman/kxue/household-transmission-mgx/trimmed"
+filterdir: "workflow/out/filter"
+rePaireddir: "workflow/out/rePair"
+plotMIDASoutdir: "workflow/report/plotMIDAS"
+T6SSdir: "workflow/out/T6SS"
+
+# Analysis parameters.
+maxCPUs: 128
+# MIDAS snps module.
+runMIDAS_speciesMinCoverage: 3
+
+# Plot defaults.
+plotDefaults: "workflow/scripts/plotDefaults.R"
+
+# Additional input files.
+XBspeciesOfInterest: "config/XB-speciesOfInterest.txt"

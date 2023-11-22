@@ -1,0 +1,12 @@
+# Ignore large file intermediates.
+/workflow/out/
+
+# Ignore snakemake log files.
+.snakemake
+.Rhistory
+
+# Don't ignore any .gitignore files.
+!*.gitignore
+
+# Don't ignore output SNP files from a test species.
+#!/workflow/out/midasOutput/snps/Bacteroides_vulgatus_57955/*
