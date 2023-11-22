@@ -16,9 +16,13 @@ Main software dependencies:
 - bowtie2
 
 The full conda environments used to test and run this pipeline are available here:
+
 https://github.com/ksxue/household-transmission-after-abx/blob/main/envs/skewer-no-builds.yml
+
 https://github.com/ksxue/household-transmission-after-abx/blob/main/envs/bowtie2-no-builds.yml
+
 https://github.com/ksxue/household-transmission-after-abx/blob/main/envs/MIDASpython2-no-builds.yml
+
 https://github.com/ksxue/household-transmission-after-abx/blob/main/envs/Renv-minimal.yml
 
 No non-standard hardware is required.
